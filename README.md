@@ -20,7 +20,7 @@
 <br />
 
 
-Привет, меня зовут Юлия Силова, я студент. Сейчас учусь на Бизнес-информатике. Изучаю анализ данных и алгоритмы. Пишу на Python и Java Script
+<p>Привет, меня зовут Юлия Силова, я студент. Сейчас учусь на Бизнес-информатике. Изучаю анализ данных и алгоритмы. Пишу на Python, C# и JavaScript </p>
 
 <br />
 
@@ -29,4 +29,5 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src=https://colab.research.google.com/img/colab_favicon_256px.png"></code>
