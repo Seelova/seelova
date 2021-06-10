@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/seelova">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -20,7 +20,7 @@
 <br />
 
 
-<p>Привет, меня зовут Юлия Силова, я студент. Сейчас учусь на Бизнес-информатике. Изучаю анализ данных и алгоритмы. Пишу на Python, C# и JavaScript </p>
+<p> I'm Julia Silova, student of business informatics in Plekhanov Russian university, Moscow, Russia. Here I'm trying to become a Data Scientist</p>
 
 <br />
 
@@ -30,4 +30,4 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src=https://colab.research.google.com/img/colab_favicon_256px.png"></code>
+<code><img height="20" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
