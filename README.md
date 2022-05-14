@@ -22,7 +22,7 @@
 
 
 
-<p>I'm Julia Silova, student of business informatics in Plekhanov Russian university, Moscow, Russia.</p> 
+<p> <br> I'm Julia Silova, student of business informatics in Plekhanov Russian university, Moscow, Russia.</p> 
 <p> Here I'm trying to become a Data Scientist</p>
 
 <br />
